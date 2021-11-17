@@ -41,7 +41,7 @@ for(const planeta of nombreplanetas) {
 //Operador de igualdad
 for(const key in distancia) {
     if(distancia[key] == '5'){
-        console.log('se encontro la distancia')
+        console.log('Se encontro la distancia')
     }
     else{
         console.log('No se encotro la distancia')
@@ -50,7 +50,7 @@ for(const key in distancia) {
 
 for(const key in distancia) {
     if(distancia[key] === '5'){
-        console.log('se encontro la Distancia')
+        console.log('Se encontro la Distancia')
     }
     else{
         console.log('No se encotro la Distancia')
