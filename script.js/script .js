@@ -72,4 +72,6 @@ let resultadomap = nombreplanetas.map((planetas,index)=>{   return(
 )
 })
 
+console.log(resultadoMap)
+
  
